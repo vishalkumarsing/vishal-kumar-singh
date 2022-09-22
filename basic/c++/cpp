@@ -1,0 +1,23 @@
+#include<stdio.h>
+
+void main()
+{
+	inta=0,b=1,c;
+	intf=2;
+	printf("%d\n%d",a,b);
+   while(f<18)
+{
+           c=a+b;
+           if(c%2)!=0)
+    {
+    	   printf("%d\n",);
+    	   f++
+}
+           a=b;
+           b=c
+       }
+}
+return=0
+}
+	       
+
